@@ -1,0 +1,8 @@
+{
+  "name": "node-basic-setup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jasongforbes/node-basic-setup.git",
+  "author": "Jason Forbes <jason.g.forbes@gmail.com>",
+  "license": "MIT"
+}
